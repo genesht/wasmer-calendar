@@ -1,0 +1,5 @@
+name: wasmer-calendar
+app_id: da_nYYILtXU5mDW
+owner: genesht
+package: .
+kind: wasmer.io/App.v0

@@ -1,0 +1,8 @@
+package: genesht/wasmer-calendar
+
+app:
+  kind: webapp
+  name: wasmer-calendar
+
+fs:
+  public: dist

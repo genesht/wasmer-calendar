@@ -1,0 +1,10 @@
+[package]
+name = "genesht/wasmer-calendar"
+version = "0.1.2"
+description = "Wasmer calendar static site"
+
+[dependencies]
+"sharrattj/static-web-server" = "^1"
+
+[fs]
+public = "dist"
